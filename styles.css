@@ -1,0 +1,66 @@
+.search-bar {
+    font-size: 20px;
+    display: block;
+}
+
+.video-preview {
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+}
+
+.thumbnail-row {
+    margin-bottom: 10px;
+}
+
+.thumbnail {
+    width: 300px;
+    display: block;
+}
+
+.channel-picture {
+    vertical-align: top;
+    display: inline-block;
+    width: 36px;
+    margin-right: 8px;
+}
+
+.profile-picture {
+    width: 100%;
+    border-radius: 36px;
+}
+
+.video-info {
+    display: inline-block;
+    width: 250px;
+}
+
+p {
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.video-title {
+    font-size: 14px;
+    font-weight: 550;
+    line-height: 20px;
+    margin-top: 0px;
+}
+
+.video-author, .video-stats {
+    color: rgb(96, 96, 96);
+    font-size: 12px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+.left-section {
+    width:25px;
+    height:25px;
+    float: left;
+    display:inline;
+}
+
+/* .youtube-logo {
+    float: left;
+} */
